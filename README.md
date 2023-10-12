@@ -17,4 +17,4 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/achrefdhibi/Named_Entity_Recognition_.git
-   cd ner-project
+   cd Named_Entity_Recognition_
